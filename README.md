@@ -1,5 +1,7 @@
 # Builders con IA y no-code: de una idea a una app funcionando (2026)
 
+![Comparativa 2026 — TonyCiencia](banner.png)
+
 Todas prometen básicamente lo mismo: escribís lo que querés en una caja de texto y en minutos tenés algo andando. Pero "algo andando" significa cosas muy distintas según la herramienta — una app completa con base de datos y lógica de backend, un sitio web con su copy ya escrito, un agente que responde por vos, o un lienzo no-code donde armás todo a mano con más control del que te da cualquier prompt. Confundir estas categorías es la forma más rápida de elegir mal y terminar migrando a mitad de proyecto.
 
 ## Comparativa rápida
