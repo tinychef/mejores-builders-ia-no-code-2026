@@ -4,6 +4,31 @@
 
 Todas prometen básicamente lo mismo: escribís lo que querés en una caja de texto y en minutos tenés algo andando. Pero "algo andando" significa cosas muy distintas según la herramienta — una app completa con base de datos y lógica de backend, un sitio web con su copy ya escrito, un agente que responde por vos, o un lienzo no-code donde armás todo a mano con más control del que te da cualquier prompt. Confundir estas categorías es la forma más rápida de elegir mal y terminar migrando a mitad de proyecto.
 
+## 🆕 Novedades
+
+### Dify sumó soporte nativo de MCP y un modo "Supervisor"
+![Dify](https://raw.githubusercontent.com/tinychef/tonyciencia-partners-os/main/assets/banners/spotlights/dify.png)
+
+Ahora tus agentes se conectan directo a cualquier servidor MCP (sistemas de archivos, GitHub, Slack, bases de datos) sin armar una integración custom para cada fuente. Se suma un modo Supervisor que coordina varios sub-agentes en tareas de varios pasos, y una CLI oficial (`difyctl`) para llamar apps de Dify desde la terminal.
+
+**[Probar Dify →](https://affiliate.dify.ai/ehm5uywvxx1s)**
+
+### Base44 ya tiene su propio modelo de IA — y llegó a 100 millones de dólares en ingresos
+![Base44](https://raw.githubusercontent.com/tinychef/tonyciencia-partners-os/main/assets/banners/spotlights/base44.png)
+
+Wix la compró en junio de 2025 por 80 millones de dólares cuando tenía seis meses de vida; nueve meses después ya facturaba 100 millones anuales. En 2026 lanzó Base1, su propio modelo de lenguaje entrenado específicamente para construir apps, sin depender solo de modelos genéricos de terceros (aunque seguís pudiendo elegir Claude, Gemini o GPT-5 si preferís).
+
+**[Probar Base44 →](https://base44.pxf.io/c/6249333/2049275/25619?trafcat=lp)**
+
+### Bubble le dio a su AI Agent apps móviles nativas sin restricciones
+![Bubble](https://raw.githubusercontent.com/tinychef/tonyciencia-partners-os/main/assets/banners/spotlights/bubble.png)
+
+El AI Agent ahora arma y edita apps nativas de iOS y Android —bottom sheets, navegación por stack, gestos de swipe— en vez de solo adaptar el diseño web a una pantalla chica, configura conexiones de API y corrige errores automáticamente.
+
+**[Probar Bubble →](https://bubble.pxf.io/c/6249333/1241519/15270)**
+
+---
+
 ## Comparativa rápida
 
 | | Herramienta | Construye | Link |
@@ -54,4 +79,4 @@ Cuando hay alguien técnico en el equipo que quiere meter mano en el flujo y con
 
 Comparativa mantenida por [TonyCiencia](https://youtube.com/@tonyciencia). Los links son de afiliado — no cuesta nada extra entrar por acá y ayuda a sostener el canal. Solo se listan herramientas con relación de partner activa.
 
-Última actualización: 2026-08.
+Última actualización: 2026-09-04.
